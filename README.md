@@ -20,7 +20,7 @@ Valid:
 
 ```
 =============== HTML Validator ===============
-Provided test files (suggested that some should be provided in class):
+Provided test files:
 a.html (valid)
 b.html (valid)
 c.html (valid)
@@ -41,7 +41,7 @@ Invalid:
 
 ```
 =============== HTML Validator ===============
-Provided test files (suggested that some should be provided in class):
+Provided test files:
 a.html (valid)
 b.html (valid)
 c.html (valid)
@@ -65,7 +65,7 @@ Validating d.html...
 
 ```
 =============== HTML Validator ===============
-Provided test files (suggested that some should be provided in class):
+Provided test files:
 a.html (valid)
 b.html (valid)
 c.html (valid)

@@ -67,7 +67,7 @@ int main() {
 void getFileName() {
   cout << "=============== HTML Validator ===============\n";
 
-  cout << "Provided test files (suggested that some should be provided in class):"
+  cout << "Provided test files:"
        << endl;
   cout << "a.html (valid)\n";
   cout << "b.html (valid)\n";
